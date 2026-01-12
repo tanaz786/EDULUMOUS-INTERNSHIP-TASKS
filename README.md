@@ -7,6 +7,17 @@ This project was developed as part of my internship learning experience at **Edu
 ## Overview
 The portfolio highlights my skills, projects, and learning journey using modern web development practices. The goal was to build a clean, maintainable, and well-documented project.
 
+## Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Projects Section
+![Projects Section](images/projects.png)
+
+### Contact Section
+![Contact Section](images/contact.png)
+
 ## Use of Amazon Q
 Amazon Q was used as an AI-assisted development tool during the project to:
 - Assist with debugging and error resolution
