@@ -7,6 +7,12 @@ This project was developed as part of my internship learning experience at **Edu
 ## Overview
 The portfolio highlights my skills, projects, and learning journey using modern web development practices. The goal was to build a clean, maintainable, and well-documented project.
 
+## Tech Stack
+- HTML5
+- CSS3 (Flexbox, Media Queries)
+- JavaScript (DOM manipulation)
+- Git & GitHub
+
 ## Screenshots
 
 ### Home Page
