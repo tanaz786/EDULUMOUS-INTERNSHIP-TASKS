@@ -15,9 +15,6 @@ The portfolio highlights my skills, projects, and learning journey using modern 
 ### Projects Section
 ![Projects Section](images/projects.png)
 
-### Contact Section
-![Contact Section](images/contact.png)
-
 ## Use of Amazon Q
 Amazon Q was used as an AI-assisted development tool during the project to:
 - Assist with debugging and error resolution
