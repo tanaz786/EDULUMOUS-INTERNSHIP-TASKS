@@ -13,6 +13,7 @@ The portfolio highlights my skills, projects, and learning journey using modern 
 
 ## Tech Stack
 - HTML5
+- new_profile.jpg
 - CSS3 (Flexbox, Media Queries)
 - JavaScript (DOM manipulation)
 - Git & GitHub
