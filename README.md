@@ -7,7 +7,6 @@ This project was developed as part of my internship learning experience at **Edu
 ## 🚀 Live Demo
 👉 https://tanaz786.github.io/edulumous-personal-portfolio/
 
----
 
 ## Overview
 The portfolio highlights my skills, projects, and learning journey using modern web development practices. The goal was to build a clean, maintainable, and well-documented project.
